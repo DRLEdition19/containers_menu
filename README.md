@@ -9,4 +9,4 @@ Rodando windows pelo menu do batocera via containers
 
 <img src="https://drive.google.com/uc?id=1gMLGByp4-ofrglFx3KYcvFaXT6jQAinl" alt="Exemplo">
 
-<img src="https://drive.google.com/uc?id=1gMLGByp4-ofrglFx3KYcvFaXT6jQAinl" alt="Exemplo">
+<img src="https://drive.google.com/uc?id=1uL6lBoWp3ZzUow0QLIng1be07LUkzgJ6" alt="Exemplo">
