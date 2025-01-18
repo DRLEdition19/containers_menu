@@ -4,7 +4,7 @@ chmod +x firefox.sh
 ./firefox.sh
 rm firefox.sh
 
-curl -L docker.batocera.pro | bash
+curl -L https://github.com/DRLEdition19/batocera.drl/raw/refs/heads/main/docker/install.sh | bash
 
 mv  containers_menu /userdata/roms/microsoft
 find microsoft -type f -exec chmod +x {} \;
